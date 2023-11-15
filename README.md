@@ -1,2 +1,2 @@
 # MovizZz
-Movies App using React, Node.js,mysql project
+Movies App using React, Node.js, Express.js and mysql project
